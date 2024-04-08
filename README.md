@@ -1,0 +1,1 @@
+This is a leaning project and also a draft service page which is going to be full fledged in the near future and provide services like motif finding , variant calling , primer desinging and NGS AND WGS service provider.
